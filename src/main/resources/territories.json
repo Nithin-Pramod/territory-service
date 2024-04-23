@@ -1,0 +1,124 @@
+{
+  "territories": [
+    {
+      "id": 1,
+      "name": "India",
+      "parentId": 0
+    },
+    {
+      "id": 2,
+      "name": "Maharashtra",
+      "parentId": 1
+    },
+    {
+      "id": 3,
+      "name": "Tamil Nadu",
+      "parentId": 1
+    },
+    {
+      "id": 4,
+      "name": "Kerala",
+      "parentId": 1
+    },
+    {
+      "id": 5,
+      "name": "Uttar Pradesh",
+      "parentId": 1
+    },
+    {
+      "id": 6,
+      "name": "West Bengal",
+      "parentId": 1
+    },
+    {
+      "id": 7,
+      "name": "Rajasthan",
+      "parentId": 1
+    },
+    {
+      "id": 8,
+      "name": "Gujarat",
+      "parentId": 1
+    },
+    {
+      "id": 9,
+      "name": "Madhya Pradesh",
+      "parentId": 1
+    },
+    {
+      "id": 10,
+      "name": "Karnataka",
+      "parentId": 1
+    },
+    {
+      "id": 11,
+      "name": "Andhra Pradesh",
+      "parentId": 1
+    },
+    {
+      "id": 12,
+      "name": "Telangana",
+      "parentId": 1
+    },
+    {
+      "id": 13,
+      "name": "Bihar",
+      "parentId": 1
+    },
+    {
+      "id": 14,
+      "name": "Odisha",
+      "parentId": 1
+    },
+    {
+      "id": 15,
+      "name": "Assam",
+      "parentId": 1
+    },
+    {
+      "id": 16,
+      "name": "Mumbai",
+      "parentId": 2
+    },
+    {
+      "id": 17,
+      "name": "Pune",
+      "parentId": 2
+    },
+    {
+      "id": 18,
+      "name": "Nagpur",
+      "parentId": 2
+    },
+    {
+      "id": 19,
+      "name": "Chennai",
+      "parentId": 3
+    },
+    {
+      "id": 20,
+      "name": "Coimbatore",
+      "parentId": 3
+    },
+    {
+      "id": 21,
+      "name": "Madurai",
+      "parentId": 3
+    },
+    {
+      "id": 22,
+      "name": "Kochi",
+      "parentId": 4
+    },
+    {
+      "id": 23,
+      "name": "Thiruvananthapuram",
+      "parentId": 4
+    },
+    {
+      "id": 24,
+      "name": "Kozhikode",
+      "parentId": 4
+    }
+  ]
+}
