@@ -32,7 +32,7 @@ Before running the application, ensure you have the following installed:
 - Maven
 ### Properties
 
-Add the following properties to your `application.properties` or `application.yml` file:
+Add the following properties to your `application.properties`:
 
 ```properties
 spring.application.name=territory-service
